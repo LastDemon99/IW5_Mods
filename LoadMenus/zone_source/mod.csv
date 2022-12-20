@@ -1,0 +1,4 @@
+rawfile,maps/mp/gametypes/_globallogic.gsc
+rawfile,maps/mp/_lb_menus.gsc
+
+menufile,ui_mp/scriptmenus/testmenu.menu

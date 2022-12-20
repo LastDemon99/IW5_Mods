@@ -1,0 +1,22 @@
+{
+	menuDef
+	{
+		name "testmenu"
+		rect 0 0 640 480 0 0
+		blurworld 4.8
+		popup
+	
+		onOpen
+		{
+			
+		}
+		onClose
+		{
+			
+		}
+		onEsc
+		{
+			close self;
+		}
+	}
+}
